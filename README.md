@@ -1,4 +1,4 @@
-# 📝 To-Do List App Project Myskill
+# 📝 To-Do List App_Project Myskill
 
 > Aplikasi To-Do List sederhana berbasis **HTML**, **CSS**, dan **JavaScript** dengan fitur tampilan background yang berganti otomatis setiap 5 detik.
 
@@ -31,7 +31,7 @@ Aplikasi ini membantu pengguna dalam mencatat daftar kegiatan harian dengan fitu
 
 ## 🖼 Preview Tampilan  
 
-![Preview To-Do List]
+![Preview To-Do List App]
 - (https://github.com/BotSlayer21/To-Do-List-HTML-Project/blob/main/preview%20project/7.png)
 - (https://github.com/BotSlayer21/To-Do-List-HTML-Project/blob/main/preview%20project/2.png)
 - (https://github.com/BotSlayer21/To-Do-List-HTML-Project/blob/main/preview%20project/5.png)
