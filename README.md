@@ -1,11 +1,5 @@
 # 📝 To-Do List App Project
 
-![GitHub repo size](https://img.shields.io/github/repo-size/BotSlayer21/todo-list?color=blue)
-![GitHub stars](https://img.shields.io/github/stars/BotSlayer21/todo-list?style=social)
-![GitHub forks](https://img.shields.io/github/forks/BotSlayer21/todo-list?style=social)
-![License](https://img.shields.io/github/license/BotSlayer21/todo-list)
-![Languages](https://img.shields.io/github/languages/count/BotSlayer21/todo-list)
-
 > Aplikasi To-Do List sederhana berbasis **HTML**, **CSS**, dan **JavaScript** dengan fitur tampilan background yang berganti otomatis setiap 5 detik.
 
 ---
@@ -15,9 +9,6 @@
 - [Fitur Utama](#-fitur-utama)
 - [Preview Tampilan](#-preview-tampilan)
 - [Teknologi yang Digunakan](#-teknologi-yang-digunakan)
-- [Cara Menjalankan Proyek](#-cara-menjalankan-proyek)
-- [Struktur Folder](#-struktur-folder)
-- [Lisensi](#-lisensi)
 
 ---
 
@@ -38,9 +29,7 @@ Selain fungsionalitas dasar seperti menambah dan menghapus tugas, aplikasi ini j
 
 ## 🖼 Preview Tampilan  
 
-![Preview To-Do List]()
-
-> Ganti link gambar di atas dengan link gambar dari repository kamu.  
+![Preview To-Do List](https://github.com/BotSlayer21/To-Do-List-HTML-Project/blob/main/preview%20project.png)
 
 ---
 
