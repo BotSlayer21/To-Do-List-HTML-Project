@@ -31,7 +31,7 @@ Aplikasi ini membantu pengguna dalam mencatat daftar kegiatan harian dengan fitu
 
 ## 🖼 Preview Tampilan  
 
-![Preview To-Do List](https://github.com/BotSlayer21/To-Do-List-HTML-Project/blob/main/preview%20project.png)
+![Preview To-Do List]()
 
 ---
 
