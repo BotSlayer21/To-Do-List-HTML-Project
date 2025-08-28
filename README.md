@@ -1,4 +1,4 @@
-# 📝 To-Do List App Project
+# 📝 To-Do List App Project Myskill
 
 > Aplikasi To-Do List sederhana berbasis **HTML**, **CSS**, dan **JavaScript** dengan fitur tampilan background yang berganti otomatis setiap 5 detik.
 
@@ -13,8 +13,10 @@
 ---
 
 ## 📖 Tentang Proyek
-Proyek **To-Do List App** ini dibuat untuk mempermudah pengguna dalam mencatat daftar kegiatan harian.  
-Selain fungsionalitas dasar seperti menambah dan menghapus tugas, aplikasi ini juga memiliki fitur visual menarik berupa **background yang berganti otomatis setiap 5 detik**.  
+Proyek **To-Do List App** ini dibuat sebagai hasil **belajar dan latihan** setelah mempelajari materi di **MySkill**.  
+Selain untuk meningkatkan keterampilan di bidang web development dengan memahami dasar-dasar **HTML, CSS, dan JavaScript**.
+Proyek ini juga menjadi bagian dari **portofolio** saya dengan menunjukkan skill yang sudah dipelajari dalam mengembangkan aplikasi sederhana berbasis web.  
+Aplikasi ini membantu pengguna dalam mencatat daftar kegiatan harian dengan fitur visual menarik berupa **background yang berganti otomatis setiap 5 detik**.  
 
 ---
 
